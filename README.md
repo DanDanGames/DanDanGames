@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @DanDanStudios!
-- 👀 I’m interested in coding and making games!
-- 🌱 I’m currently learning how to use different game engines like Unity and Unreal Engine
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am currently working on a horror game
+Hello, I am making
 
 <!---
 DanDanStudios/DanDanStudios is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
